@@ -8,7 +8,7 @@ This repository include a LICENCE file with dual licences and a citation file.
 If you are starting a new Github repository with a dual-licensing setup, we recommand using the template provided by this repository.
 To do that, use the *Use this template* button on the top right corner from this repository, see below:
 
-<img width="722" height="167" alt="image" src="https://github.com/user-attachments/assets/a2f9c04a-3021-4294-8d4f-62cb8c4f412a" />
+<img width="682" height="123" alt="image" src="https://github.com/user-attachments/assets/f794fff1-5765-409a-a6a6-f81e433b86bf" />
 
 Click on the *Create a new repository* option and Github will bring you to the *Create a new repository* page.
 
