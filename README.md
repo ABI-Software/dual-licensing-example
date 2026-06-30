@@ -34,7 +34,7 @@ You now have a clean repository populated with the correct dual-licensing text a
 
 Transitioning an active, existing codebase to a dual-licensing model requires careful legal and technical compliance:
 
-1. **Verify IP Ownership:** Ensure you have the legal right to license the code. Review the *Intellectual Property Policy from the Unviersitry*. Remember that external contributions or viral dependencies may impact your licensing options.
+1. **Verify IP Ownership:** Ensure you have the legal right to license the code. Review the *Intellectual Property Policy from the Unviersity*. Remember that external contributions or viral dependencies may impact your licensing options.
 2. **Obtain Contributor Consent:** You **must** get explicit, written agreement from 100% of the past authors/contributors who wrote code currently in the repository before changing the license terms.
 3. **Apply the New Licence:** Copy the `LICENSE` file from this template into your root directory. Update your documentation to state that the dual-licensing model applies to all versions from this commit forward. *Note: Do not delete historical open-source licences if that legacy code remains in your version history.*
 4. **Add Academic Attribution:** Copy and update the `CITATION.cff` file to ensure your team receives proper academic citation when your software is used by other researchers.
