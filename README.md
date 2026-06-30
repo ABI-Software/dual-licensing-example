@@ -10,9 +10,14 @@ To do that, use the *Use this template* button on the top right corner from this
 
 <img width="722" height="167" alt="image" src="https://github.com/user-attachments/assets/a2f9c04a-3021-4294-8d4f-62cb8c4f412a" />
 
-Click on the *Create a new repository* will bring you to the Create a new repository page, keep the **Start with a template** option on ABI-Software/dual-licensing-example and **Include all branches** option off.
-Select **Owner** and **Repository** name of your choice. Enter the description or leave it as blank but keep in mind that the description can be updated later. Choose visibility based on the requirement of your project.
-After confirming all entered information, click on **Create repository**. You will now have a new repository with the dual-licences and examplary citation file. You may now begin adding your own codes.
+Click on the *Create a new repository* and Github will bring you to the *Create a new repository* page.
+
+<img width="904" height="739" alt="image" src="https://github.com/user-attachments/assets/943bd3c9-d22c-45c3-8a50-a1099aac81c6" />
 
 
+1. Keep the **Start with a template** option on ABI-Software/dual-licensing-example and **Include all branches** option off.
+2. Select **Owner** and **Repository** name of your choice.
+3. Enter the description or leave it as blank but keep in mind that the description can be updated later.
+4. Choose visibility to either **Public** or **Private** based on the requirement of your project.
+5. After confirming all entered information, click on **Create repository**. You will now have a new repository with the dual-licences and examplary citation file. You may now begin working on your new repository.
 
