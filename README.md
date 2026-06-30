@@ -10,7 +10,7 @@ To do that, use the *Use this template* button on the top right corner from this
 
 <img width="722" height="167" alt="image" src="https://github.com/user-attachments/assets/a2f9c04a-3021-4294-8d4f-62cb8c4f412a" />
 
-Click on the *Create a new repository* and Github will bring you to the *Create a new repository* page.
+Click on the *Create a new repository* option and Github will bring you to the *Create a new repository* page.
 
 <img width="904" height="739" alt="image" src="https://github.com/user-attachments/assets/943bd3c9-d22c-45c3-8a50-a1099aac81c6" />
 
